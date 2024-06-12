@@ -8,4 +8,4 @@ function desenhandoTriangulho(num) {
   }
 }
 let triangulo = prompt('Quantas linhas voce deseja?')
-console.log(desenhandoTriangulho(triangulo));
+desenhandoTriangulho(triangulo);
